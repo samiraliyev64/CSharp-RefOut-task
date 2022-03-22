@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\RefOut-Task3\RefOut-Task3\obj\Debug\netcoreapp3.1\RefOut-Task3.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\RefOut-Task3\RefOut-Task3\obj\Debug\netcoreapp3.1\RefOut-Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\RefOut-Task3\RefOut-Task3\obj\Debug\netcoreapp3.1\RefOut-Task3.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\RefOut-Task3\RefOut-Task3\obj\Debug\netcoreapp3.1\RefOut-Task3.AssemblyInfo.cs
+C:\Users\HP\source\repos\RefOut-Task3\RefOut-Task3\obj\Debug\netcoreapp3.1\RefOut-Task3.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\RefOut-Task3\RefOut-Task3\bin\Debug\netcoreapp3.1\RefOut-Task3.exe
+C:\Users\HP\source\repos\RefOut-Task3\RefOut-Task3\bin\Debug\netcoreapp3.1\RefOut-Task3.deps.json
+C:\Users\HP\source\repos\RefOut-Task3\RefOut-Task3\bin\Debug\netcoreapp3.1\RefOut-Task3.runtimeconfig.json
+C:\Users\HP\source\repos\RefOut-Task3\RefOut-Task3\bin\Debug\netcoreapp3.1\RefOut-Task3.runtimeconfig.dev.json
+C:\Users\HP\source\repos\RefOut-Task3\RefOut-Task3\bin\Debug\netcoreapp3.1\RefOut-Task3.dll
+C:\Users\HP\source\repos\RefOut-Task3\RefOut-Task3\bin\Debug\netcoreapp3.1\RefOut-Task3.pdb
+C:\Users\HP\source\repos\RefOut-Task3\RefOut-Task3\obj\Debug\netcoreapp3.1\RefOut-Task3.dll
+C:\Users\HP\source\repos\RefOut-Task3\RefOut-Task3\obj\Debug\netcoreapp3.1\RefOut-Task3.pdb
+C:\Users\HP\source\repos\RefOut-Task3\RefOut-Task3\obj\Debug\netcoreapp3.1\RefOut-Task3.genruntimeconfig.cache
